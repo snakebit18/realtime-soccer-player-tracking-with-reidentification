@@ -1,0 +1,15 @@
+# Core dependencies
+opencv-python
+numpy
+torch
+torchvision
+ultralytics
+
+# Re-identification and tracking
+deep-sort-realtime
+torchreid
+sklearn
+
+# OCR
+easyocr
+
